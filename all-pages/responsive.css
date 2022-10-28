@@ -22,4 +22,12 @@ nav ul a{
     margin-left: 30px;
     transition: 0.3s;
 }
+#nav{
+    display: block;
+    cursor: pointer;
+}
+/* #navigation{
+    display: none;
+} */
+
 }

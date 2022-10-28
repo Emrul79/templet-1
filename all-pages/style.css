@@ -38,3 +38,9 @@ nav ul a li:hover{
 .active{
     color: rgb(10, 143, 39);
 }
+#nav{
+ display: none;
+ position: fixed;
+ top: 40px;
+ right: 40px;
+}
