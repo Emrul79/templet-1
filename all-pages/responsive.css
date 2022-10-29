@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   body {
     background-color: lightblue;
   }
@@ -113,5 +113,15 @@ nav ul a{
 }
 .text-content ul li{
     font-size: 16px;
+}
+.all-content{
+    background-color: aqua;
+    flex-direction: column;
+}
+.left-content{
+    order: 2;
+}
+.right-content{
+    order: 1;
 }
 }
